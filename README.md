@@ -6,7 +6,6 @@
 <p align="center">"Você pode encontrar as coisas que perdeu, mas nunca as que abandonou."</p>
 <h1></h1>
       
-### Hi! be welcome, i'm João Victor Melo
 - 📚 A Computer Science student from IFSC
 - 💻 Currently focused on learning Java and Web Development in general
 - 📩 Email to contact jvmelo0x@gmail.com
