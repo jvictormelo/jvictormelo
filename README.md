@@ -15,7 +15,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictormelo&show_icons=true&theme=radical"/>
-  <img height="208em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictormelo&layout=compact"/>
+  <img height="180em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictormelo&layout=compact&show_icons=true&theme=radical"/>
 
 </div>
 
