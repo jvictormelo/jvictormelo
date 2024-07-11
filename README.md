@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="https://github.com/jvictormelo/jvictormelo/assets/161324575/9c4ee533-ced0-45cd-a552-d6ab083a13aa" alt="foto-perfil" width="120px"/>
-  <br>
+  
   João Victor de Oliveira Melo
   <br>
 </h1>
@@ -12,6 +10,7 @@
 - 📚 A Computer Science student from IFSC
 - 💻 Currently focused on learning Java and Web Development in general
 - 📩 Email to contact jvmelo0x@gmail.com
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictormelo&show_icons=true&theme=radical"/>
